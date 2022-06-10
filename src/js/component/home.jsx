@@ -9,7 +9,7 @@ const Home = () => {
 		<div id="traffic-light">
 			<div className="traffic-top"></div>
 			<div className="container">
-				<div className="light red glow"></div>
+				<div className="light red"></div>
 				<div className="light yellow"></div>
 				<div className="light green"></div>
 			</div>
